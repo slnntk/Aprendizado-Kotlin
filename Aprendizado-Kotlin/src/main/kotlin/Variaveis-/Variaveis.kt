@@ -1,4 +1,4 @@
-package Variaveis
+package `Variaveis-`
 
 fun main(){
     var nome = "Cássio";   // MUTÁVEL
