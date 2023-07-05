@@ -12,7 +12,7 @@ class variaveis{
     lateinit var teste1: String; // não obriga iniciar a várivavel.
 
 
-    fun initvariavel{
+    fun initvariavel(){
         teste = "Cassio";
         teste1 = "a";
     }
